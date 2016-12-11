@@ -1,22 +1,21 @@
 # Web_Scrapping
 
+## Using Python along with Selenium, PhantomJS and Beautiful Soup 
+
 ### 
 
-Firts step:
+As a General rule I will follow this three steps below.
 
-Inpect the element page
+*Firts step:*
 
-you can this manually in order to locate tags
+The first thing to do is to inspect the element page.  You can do this manually in order to locate tags that you might be interested in. 
 
-second step:
+*Second step:*
 
-download the HTML documents by using Selenium and 
-PhantomJS
+After, you decide what tags or classes to grab then download the HTML documents by using Selenium and PhantomJS.
 
 
-Get Se to download the html page
-
-third:
+*Third step:*
 
 You can use Beautiful soup objects by searching by tags codes and finally extract the data found on those respective tags. 
 
