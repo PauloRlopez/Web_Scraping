@@ -4,6 +4,9 @@
 
 ----------------
 
+The main purpose of this project is to do webscraping on websites in order to get vital information from it. 
+
+
 As a General rule I will follow this three steps below.
 
 > **First step:**
