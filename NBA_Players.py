@@ -1,4 +1,13 @@
+"""
 
+Fun Project that will scrape the all the NBA player's name.
+
+This script will obtain all the nba players who are 
+currently active for the year 2016.
+
+December 10th, 2016
+
+"""
 
 from selenium import webdriver
 from bs4 import BeautifulSoup
