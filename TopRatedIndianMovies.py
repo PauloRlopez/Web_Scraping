@@ -1,5 +1,5 @@
 
-#This script will find the top rated Indian movies movies 
+# This script will find the top rated Indian movies according to the IMDB website
 
 from bs4 import BeautifulSoup
 from selenium import webdriver
