@@ -38,7 +38,7 @@ As a General rule follow this three steps below.
 ## Purpose
 ### Project
 
-*This is a project done for Webscraping practices.*
+*This is a project done for personal enrichment.*
 
 #### Thanks
 
