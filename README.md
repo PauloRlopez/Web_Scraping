@@ -1,12 +1,13 @@
-# Web-Scraping
+# Web Scraping
 
 ## Using Python along with Selenium, PhantomJS and Beautiful Soup 
 
+- Web scraping is data scraping used for extracting data from websites. 
+- Web Scraping is the process of information extraction from resources that are located on the World Wide Web and the classification of scraped and unstructured data (usually found in HTML pages) in a structured form like Spreadsheets or database tables.
 
 ## Overview
 
-The main purpose of this project is to do webscraping on websites in order to get vital information from it. 
-For instance, gathering basketball players names and their pictures.  Also, gathering your favorite movie poster from a movie rating website and checking for the top rated Indian movies according to www.imdb.com. 
+The main purpose of these projects is to find information related to basketball players names and their pictures.  Also, gathering a favorite movie poster from a movie rating website and checking for the top rated Indian movies according to www.imdb.com. Note:  This can be apply to other projects.
 
 
 As a General rule follow this three steps below.
