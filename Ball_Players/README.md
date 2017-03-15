@@ -27,6 +27,8 @@ In this case I chose Stephen Curry from the Golden State Warriors.
 
 ![Alt image](https://github.com/PauloRlopez/Web_Scraping/blob/master/Ball_Players/Stephen_Curry.jpg?raw="SC")
 
+-------
+
 3. Third Script:
 
 >GetNBAList.py
@@ -34,7 +36,13 @@ In this case I chose Stephen Curry from the Golden State Warriors.
 ### Purpose
 
 This script will get all the NBA information such as the name, number, position,
-in which team the player belogns to and name will extract the link in a list.
+to which team the player belogns to and will extract the link (all this information) in a list.
 
+## Directions
 
->
+Please run the *.py* files.
+
+### Thank you
+
+-----
+
