@@ -33,4 +33,9 @@ This script will obtain from Amazon website a list of Python books.
         Python Crash Course: A Hands-On, Project-Based Introduction to Programming
         https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036
 
+## Directions
 
+Please run the *.py* file
+
+
+### Thank you
