@@ -1,5 +1,5 @@
 
-# Getting from Amazon a list of Web Scrapping book list
+# Getting from Amazon a list of WebScraping books
 				
 
 from bs4 import BeautifulSoup
