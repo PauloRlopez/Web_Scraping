@@ -3,7 +3,7 @@
 
 ## Overview
 
-This script will obtain from Amazon website a list of Python books.
+This script will obtain some python books names and the link to it.  All from Amazon website.
 
 
 ## Result of the Book List
@@ -32,6 +32,11 @@ This script will obtain from Amazon website a list of Python books.
         https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793
         Python Crash Course: A Hands-On, Project-Based Introduction to Programming
         https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036
+
+## Dependencies
+
+1. selenium
+2. bs4
 
 ## Directions
 
