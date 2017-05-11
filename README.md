@@ -45,7 +45,7 @@ Some material including images were acquired from IMDb.com which is an An Amazon
 
 As well as all material and basketball player images belong to NBA.com:  Copyright © 2017 NBA Media Ventures, LLC. All rights reserved.
 
-I simply did webscraping on this websites and I am not using this images for commercial use.
+I simply did webscraping on these websites and I am not using this images for commercial use.
 
 **Thanks**
 
