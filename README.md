@@ -7,9 +7,6 @@
 
 ## Overview
 
-The main purpose of these projects is to find information related to basketball players names and their pictures.  Also, gathering a favorite movie poster from a movie rating website and checking for the top rated Indian movies according to www.imdb.com. Note:  This can be apply to other projects.
-
-
 As a General rule follow this three steps below.
 
 > **First step:**
@@ -26,6 +23,12 @@ As a General rule follow this three steps below.
      You can use Beautiful soup objects by searching by tags codes and finally extract the data found on those respective tags. 
 
 
+## Purpose
+
+The main purpose of this project is to find information related to basketball players names and their image.  Also, gathering a favorite movie poster from a movie rating website and checking for the top rated Indian movies according to www.imdb.com. 
+
+Note:  This can be apply to other projects.
+
 ## Dependencies
 
 1. Numpy
@@ -35,15 +38,14 @@ As a General rule follow this three steps below.
 5. BeautifulSoup
 
 ----
-## Purpose
-### Project
 
-*This is a project done for personal enrichment.*
+## Disclaimer
 
-#### Thanks
+Some material including images were acquired from IMDb.com which is an An Amazon.com company. Copyright © 1990-2017 IMDb.com
 
+Ass well as all materila and basketball player images belong to NBA.com:  Copyright © 2017 NBA Media Ventures, LLC. All rights reserved.
 
+I simply did webscraping and I am not using this images for commercial use.
 
-
-
+**Thanks**
 
